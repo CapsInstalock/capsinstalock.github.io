@@ -1,0 +1,47 @@
+@font-face {
+	font-family: Imagine;
+	src: url(imagine_font.ttf);
+	}
+
+object.center {
+		position: absolute;
+		display: block;
+		top: 50%;
+		left: 50%;
+		width: 252px;
+		height: 300px;
+		margin-top: -126px;
+		margin-left: -150px;
+	}
+	
+img.center {
+  	 position: absolute;
+  	 display:block;
+  	 top: 50%;
+  	 left: 50%;
+  	 width: 252px;
+  	 height: 300px;
+  	 margin-top: -126px; /* Half the height */
+  	 margin-left: -150px; /* Half the width */
+  	 }
+  	 
+.position {
+  	 	text-align: justify;
+	}
+	
+.position object {
+	display: block;
+	top: 40%;
+		left: 50%;
+		width: 252px;
+		height: 300px;
+		margin-top: -126px;
+		margin-left: -150px;
+}
+	
+p.font {
+ 		text-align: center;
+  	 	font-family: Imagine, "Courier New", Courier, monospace;
+  	 	font-size: 48px;
+  	 	display: block;
+	}

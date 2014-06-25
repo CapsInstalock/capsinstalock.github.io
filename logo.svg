@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="504" height="600" viewBox="0, 0, 504, 600">
+  <g id="Symbol" transform="translate(-148, -100)">
+    <path d="M148,700 L148,292 L232,292 L232,616 L544,616 L544,700 z" fill="#000000" id="L"/>
+    <path d="M652,400 L652,700 L568,700 L568,400 L652,400 z" fill="#000000" id="I"/>
+    <path d="M652,292 L652,376 L568,376 L568,292 L652,292 z" fill="#000000" id="i_Dot"/>
+    <path d="M568,100 L568,292 L484,292 L484,184 L316,184 L316,292 L232,292 L232,100 L568,100 z" fill="#000000" id="C"/>
+  </g>
+</svg>
