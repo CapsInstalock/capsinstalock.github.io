@@ -32,7 +32,6 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: Impact, "Helvetica Neue", Helvetica, sans-serif;
-	color: white;
 }
 p, div {
     font-family: Futura, "Helvetica Neue", Helvetica, sans-serif;
@@ -82,8 +81,13 @@ div.broken {
 
 div#unityPlayer {
 	cursor: default;
+	margin: auto;
 	height: 600px;
 	width: 960px;
+}
+
+div#error {
+	text-align: center;
 }
 
 code {
