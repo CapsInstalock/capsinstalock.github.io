@@ -14,7 +14,7 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #222222;
+  background-color: black;
 }
 
 
@@ -44,12 +44,16 @@ body > .container {
   margin: 20px 0;
 }
 
+.navbar-inverse {
+	background-color: black;
+}
+
 .navbar-brand {
 	font-family: Imagine, Impact, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .panel-default > .panel-heading {
-  background-color: #222222;
+  background-color: black;
   color: white;
 }
 
