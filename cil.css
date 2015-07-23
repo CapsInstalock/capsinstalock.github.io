@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:700|Nunito);
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -28,13 +29,13 @@ body {
 }
 
 body {
-	background-color: #2ecc71;
+	background-color: #F7F7F7;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: Impact, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: 'Oswald', 'Impact', Helvetica, sans-serif;
 }
 p, div {
-    font-family: Futura, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: 'Nunito', 'Futura', Helvetica, sans-serif;
 }
 
 body > .container {
@@ -49,7 +50,7 @@ body > .container {
 }
 
 .navbar-brand {
-	font-family: Imagine, Impact, "Helvetica Neue", Helvetica, sans-serif;
+	font-family: Imagine, 'Oswald', 'Impact', Helvetica, sans-serif;
 }
 
 .panel-default > .panel-heading {
